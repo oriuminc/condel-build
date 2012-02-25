@@ -1,0 +1,3 @@
+[submodule "condel"]
+	path = condel
+	url = https://github.com/myplanetdigital/condel.git
