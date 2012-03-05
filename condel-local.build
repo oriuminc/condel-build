@@ -8,5 +8,4 @@ projects[pressflow][download][revision] = 86e637864707e
 
 projects[condel][type] = profile
 projects[condel][download][type] = git
-projects[condel][download][url] = https://github.com/myplanetdigital/condel.git
-projects[condel][download][revision] = master
+projects[condel][download][url] = file:///vagrant/condel-build/condel/.git
